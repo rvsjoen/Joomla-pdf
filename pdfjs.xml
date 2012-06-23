@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" type="plugin" group="content">
+	<name>PLG_CONTENT_PDFJS</name>
+    <creationDate>2012</creationDate>
+    <author></author>
+    <authorEmail></authorEmail>
+    <authorUrl></authorUrl>
+    <copyright></copyright>
+    <license>License GNU General Public License version 2 or later</license>
+	<version>2.5.0</version>
+	<description>PLG_CONTENT_PDFJS_XML_DESCRIPTION</description>
+	<files>
+		<filename plugin="pdfjs">pdfjs.php</filename>
+	</files>
+</extension>
